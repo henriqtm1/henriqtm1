@@ -5,7 +5,7 @@
 
 - 🏢 I’m work at [Foursys](https://www.foursys.com.br) company 
 
-- 📝 I’m currently work on the project Next Bank]https://next.me/) 
+- 📝 I’m currently work on the project Next Bank](https://next.me/) 
 
 - 💬 Ask me about **Android**
 
