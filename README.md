@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqtm1&label=Profile%20views&color=0e75b6&style=flat" alt="henriqtm1" /> </p>
 
-- 🏢 I’m work at [Foursys](https://www.foursys.com.br) company 
+- 🏢 I’m work at [OJO](https://ojo.com.br) company 
 
 - 📝 I’m currently work on the project [Next Bank](https://next.me/) 
 
