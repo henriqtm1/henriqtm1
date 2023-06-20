@@ -5,7 +5,7 @@
 
 - 🏢 I’m work at [OJO](https://ojo.com.br) company 
 
-- 📝 I’m currently work on the project [OJO Plataforma e Logística]
+- 📝 I’m currently work on the project [OJO Plataforma e Logística](https://ojo.com.br)
 
 - 💬 Ask me about **Android**
 
