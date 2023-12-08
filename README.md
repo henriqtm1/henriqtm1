@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqtm1&label=Profile%20views&color=0e75b6&style=flat" alt="henriqtm1" /> </p>
 
-- 🏢 I’m work at [OJO](https://ojo.com.br) company 
+- 🏢 I’m work at [Vega IT](https://vegait.com/) company 
 
-- 📝 I’m currently work on the project [OJO Plataforma e Logística](https://ojo.com.br)
+- 📝 I’m currently work on the project [HXP-Android and HXP-AndroidTV]([https://vegait.com/])
 
 - 💬 Ask me about **Android**
 
