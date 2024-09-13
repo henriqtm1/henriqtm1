@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqtm1&label=Profile%20views&color=0e75b6&style=flat" alt="henriqtm1" /> </p>
 
-- 🏢 I’m work at [Vega IT](https://vegait.com/) company 
+- 🏢 I’m work at [CI&T](https://ciandt.com/us/en-us) company 
 
 - 📝 I’m currently work on the project [HXP-Android and HXP-AndroidTV]([https://vegait.com/])
 
