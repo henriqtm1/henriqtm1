@@ -5,7 +5,7 @@
 
 - 🏢 I’m work at [CI&T](https://ciandt.com/us/en-us) company 
 
-- 📝 I’m currently work on the project [HXP-Android and HXP-AndroidTV]([https://vegait.com/])
+- 📝 I’m currently working on the project [Jeitto](https://www.jeitto.com.br/)
 
 - 💬 Ask me about **Android**
 
